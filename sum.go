@@ -7,5 +7,5 @@ func sum(n,m int) int {
 	return (n + m) / 2
 }
 func main() {
-	fmt.Println(sum(2, 4))
+	fmt.Println(sum(2, 3))
 }
