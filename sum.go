@@ -7,4 +7,5 @@ func sum(n,m int) float64 {
 }
 func main() {
 	fmt.Println(sum(4, 4))
+	fmt.Println("bugFix")
 }
